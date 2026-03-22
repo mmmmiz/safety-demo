@@ -1,3 +1,5 @@
 .env
 .venv/
 docs_in_local/
+.DS_Store
+**/.DS_Store
